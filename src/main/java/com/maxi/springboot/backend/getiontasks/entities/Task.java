@@ -60,4 +60,9 @@ public class Task {
     public void setStatus(String status) {
         this.status = status;
     }
+
+    @PrePersist
+    public void prePersist() {
+        this.createdDate = LocalDate.now();
+    }
 }
