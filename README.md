@@ -25,13 +25,6 @@ Este es el backend de una aplicación de gestión de tareas, desarrollado con **
 
 ---
 
-## 📁 Endpoints principales
-
-GET https://app-task-api-13.onrender.com → Listar todas las tareas
-POST https://app-task-api-13.onrender.com → Crear una nueva tarea
-PUT https://app-task-api-13.onrender.com/{id} → Actualizar una tarea existente
-DELETE https://app-task-api-13.onrender.com/{id} → Eliminar una tarea
-
 ## 🙋‍♂️ Autor
 
 - **Maxi Pérez**
