@@ -10,7 +10,7 @@ import java.util.List;
 import java.util.Optional;
 
 @RestController
-@CrossOrigin({"https://app-tasks-frontend.netlify.app/", "http://localhost:4200"})
+@CrossOrigin({"https://gestion-tareas-frontend.netlify.app/", "http://localhost:4200"})
 public class TaskController {
 
     private final ITaskService taskService;
