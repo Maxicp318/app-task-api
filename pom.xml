@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.maxi.springboot.backend</groupId>
-    <artifactId>getion-tasks-backend</artifactId>
+    <artifactId>gestion-tareas-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>getion-tasks-backend</name>
-    <description>getion-tasks-backend</description>
+    <name>gestion-tareas-backend</name>
+    <description>API REST para gestión de tareas</description>
     <url/>
     <licenses>
         <license/>
